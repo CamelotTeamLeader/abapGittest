@@ -4,3 +4,10 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zabapgitdemo.
+
+START-OF-SELECTION.
+
+PERFORM get_data.
+
+FORM get_data.
+ENDFORM..
