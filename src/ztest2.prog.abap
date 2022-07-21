@@ -4,3 +4,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ztest2.
+
+START-OF-SELECTION.
+WRITE 'second chage'.
