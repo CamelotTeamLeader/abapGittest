@@ -15,4 +15,6 @@ FORM getdata.
 ENDFORM.
 
 FORM display_alv.
+
+* new bugfix done
 ENDFORM.
