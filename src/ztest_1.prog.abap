@@ -12,6 +12,7 @@ PERFORM display_alv.
 FORM getdata.
 
 * get data code
+* bug fix 2
 ENDFORM.
 
 FORM display_alv.
