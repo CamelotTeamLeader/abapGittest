@@ -4,3 +4,10 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ztest3.
+
+START-OF-SELECTION.
+
+PERFORM getdata.
+
+FORM getdata.
+ENDFORM..
